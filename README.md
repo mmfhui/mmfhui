@@ -5,7 +5,7 @@ I am a Computer Science & Mathematics student @ Northeastern University. I am in
 
 <div align="center">
 
-"Everything in life is a win if the goal is to experience."
+"There is no such thing as failure if the goal was to experience."
 <br>
 <br>
 <img src="images/sticker.jpg" height="80" valign="middle" alt="my emoji sticker">
