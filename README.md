@@ -5,14 +5,17 @@ I am a Computer Science & Mathematics student @ Northeastern University. I am in
 
 <div align="center">
 
-"Everything in life is a win if the goal is to experience." 
+"Everything in life is a win if the goal is to experience."
+<br>
+<br>
+<img src="images/sticker.jpg" height="80" valign="middle" alt="my emoji sticker">
 
 </div>
   My personal philosophy is to have fun and be happy while doing things that provide real value. Trying to build out the coolest life possible :)
 
 ---
 
-Website: mhui.dev | LinkedIn: https://www.linkedin.com/in/hui-michael
+Website: [mhui.dev](https://www.mhui.dev) | LinkedIn: [linkedin.com/in/hui-michael](https://www.linkedin.com/in/hui-michael)
 <!--
 **mmfhui/mmfhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
