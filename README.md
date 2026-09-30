@@ -1,5 +1,5 @@
 ## Hey, I'm Michael Hui !
-I am a Computer Science & Mathematics student @ Northeastern University. I am interested in numerical performance engineering, with a focus on formulation, kernel implementation, and numerical precision.
+I am a Computer Science & Mathematics student @ Northeastern University. I am interested in numerical performance engineering, with a focus on formulation, numerical precision, and kernel implementation.
 
 ---
 
